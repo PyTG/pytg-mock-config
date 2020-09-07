@@ -1,2 +1,3 @@
 module_name: "mock_config"
+source_only: true
 development: true
